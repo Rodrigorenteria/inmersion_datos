@@ -1,6 +1,8 @@
 # Inmersion Datos Alura
+Introduccion a la ciencia de datos con python.
 
 ## Tecnologias
+- Google Colaboratory
 - Python
 - Pandas
   
