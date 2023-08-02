@@ -1,5 +1,5 @@
 # Inmersion Datos Alura
-Introduccion a la ciencia de datos con python.
+Introduccion a la ciencia de datos con python utilizadno Google Colaboratory y datos de las viviendas en Bogotá Colombia.
 
 ## Tecnologias
 - Google Colaboratory
